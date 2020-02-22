@@ -1,0 +1,21 @@
+{
+  "name": "vanilla-ts",
+  "version": "1.0.0",
+  "description": "JavaScript and TypeScript example starter project",
+  "main": "index.html",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "keywords": [
+    "typescript",
+    "javascript"
+  ],
+  "devDependencies": {
+    "@types/lodash": "^4.14.149",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.8.2"
+  }
+}
